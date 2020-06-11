@@ -1,0 +1,1 @@
+export {searchMovie, fetchMovies, fetchMovie, setLoading} from './searchActions'
